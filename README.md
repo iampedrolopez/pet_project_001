@@ -19,3 +19,10 @@ Exercises from data_engineering_with_python book
 ### Guide to create AWS env.
 
 [Jupyter Notebook on EC2 AWS](https://www.udemy.com/course/jupyter-notebook-server-with-aws-ec2-and-aws-vpc/learn/lecture/14424344#overview)
+
+
+### Source Systems.
+
+[Space APIs 1](https://www.programmableweb.com/category/astronomy/api)
+
+[Space APIs 2](https://api.nasa.gov/)
